@@ -31,9 +31,10 @@ body {
   font-size: 2rem;
   color: #f8f8f8;
   margin: 0;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   letter-spacing: 2px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
 }
 
 /* Controls */
